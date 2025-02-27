@@ -38,14 +38,7 @@
 
 ---
 
-<h3 align="center">🌟 GitHub Stats 🌟</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romonasarkar16&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ff69b4" alt="Romona's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romonasarkar16&theme=tokyonight&ring=ff69b4&fire=ff69b4" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romonasarkar16&layout=compact&theme=tokyonight&title_color=ff69b4" alt="Top Languages" />
